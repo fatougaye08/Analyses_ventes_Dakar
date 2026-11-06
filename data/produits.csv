@@ -1,0 +1,17 @@
+produit_id,nom_produit,categorie,prix_unitaire
+P01,Riz brisé 25 kg,Alimentation,15500
+P02,Huile végétale 5 L,Alimentation,6500
+P03,Sucre 1 kg,Alimentation,700
+P04,Lait en poudre 400 g,Alimentation,2400
+P05,Oignons 5 kg,Alimentation,3000
+P06,Café Touba 250 g,Boissons,1000
+P07,Jus de bissap 1 L,Boissons,1200
+P08,"Eau minérale pack 6x1,5 L",Boissons,2000
+P09,Savon de ménage x5,Hygiène & beauté,1500
+P10,Crème corporelle 400 ml,Hygiène & beauté,3500
+P11,Lessive 1 kg,Hygiène & beauté,1800
+P12,Ventilateur sur pied,Électroménager,22000
+P13,Fer à repasser,Électroménager,9500
+P14,Écouteurs Bluetooth,Téléphonie,8000
+P15,Chargeur rapide USB-C,Téléphonie,4500
+P16,Recharge crédit 5000,Téléphonie,5000
